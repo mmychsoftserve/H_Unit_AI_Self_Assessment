@@ -258,7 +258,9 @@
   
 **Your Score: _____**  
   
-### Q18: BDD Scenarios & Gherkin (Elaborate on Cucumber, Gherkin, BDD)  
+### Q18: To what extent does your team use AI to create BDD scenarios (Gherkin)?
+This question measures how involved AI is in generating Given/When/Then scenarios for BDD(Behavior-Driven Development) — and what percentage of scenarios AI writes vs. human
+BDD is a way of defining software behavior using simple, human-readable scenarios before coding begins
   
 - [ ] 0 - No BDD or AI not used  
 - [ ] 1 - AI assists with basic scenario formatting  
