@@ -320,7 +320,8 @@ BDD is a way of defining software behavior using simple, human-readable scenario
 **Your Score: _____**  
   
 ### Q23: Change Failure Rate & Rollbacks  
-  
+ This question asks how using AI has affected the stability of your releases. Specifically, it measures whether the number of failed deployments, production issues, hotfixes, or rollbacks has increased, stayed the same, or improved since your team began using AI tools. Select the option that best reflects how much AI has helped (or not helped) reduce failures in your code changes and deployments. 
+ 
 - [ ] 0 - Increased failures  
 - [ ] 1 - No change in failure rate  
 - [ ] 2 - 10-20% reduction in failures  
