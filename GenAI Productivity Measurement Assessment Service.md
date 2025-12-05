@@ -283,7 +283,7 @@ IMPROVED VERSION v4.3 - WITH QUESTION EXPLANATIONS
 
 ---
 
-### Q14: Bug Detection & Analysis
+### Q14: Bug Detection & Analysis (both Manual and ATQC)
 
 **What This Question Measures**: This question measures AI's role in detecting bugs and suggesting fixes. This includes automated bug detection, classification, and root cause analysis.
 
@@ -298,7 +298,7 @@ IMPROVED VERSION v4.3 - WITH QUESTION EXPLANATIONS
 
 ---
 
-### Q15: Test Data Management
+### Q15: Test Data Management (both Manual and ATQC)
 
 **What This Question Measures**: This question measures how AI assists in generating diverse test data. Good test data coverage requires many variations; AI can generate these efficiently.
 
@@ -313,7 +313,7 @@ IMPROVED VERSION v4.3 - WITH QUESTION EXPLANATIONS
 
 ---
 
-### Q16: QA Productivity & Test Coverage
+### Q16: QA Productivity & Test Coverage (both Manual and ATQC)
 
 **What This Question Measures**: This question measures overall productivity improvements in QA. Better testing speed + higher coverage = both matter for delivery performance.
 
