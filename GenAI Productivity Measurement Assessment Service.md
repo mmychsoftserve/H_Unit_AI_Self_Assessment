@@ -124,6 +124,11 @@ IMPROVED VERSION v4.2 - WITH QUESTION EXPLANATIONS
 ### Q5: AI Usage Modes Coverage
 
 **What This Question Measures**: This question measures diversity of AI tool usage. Different modes (chat, IDE, predictive, collaborative, agent) serve different needs. Using all modes indicates mature AI adoption.
+	1.	Chat mode: AI is used through chat interfaces (e.g., ChatGPT, Claude) to answer questions, generate code, or explain concepts on demand.
+	2.	IDE mode: AI is invoked directly inside the developer’s IDE to refactor, generate, or review code when the engineer explicitly triggers it.
+	3.	Predictive text mode: AI automatically suggests code or text inline as you type, acting as an advanced autocomplete system.
+	4.	Collaborative mode: AI assists across multiple files or tasks simultaneously, understanding broader project context and supporting multi-step changes.
+	5.	Agent mode: AI performs autonomous multi-step tasks (editing files, generating tests, applying fixes) with minimal human prompting.
 
 **DORA Insight**: Chat/IDE (55%), Predictive text (41%), Collaborative (18%), Agent (12%)
 
