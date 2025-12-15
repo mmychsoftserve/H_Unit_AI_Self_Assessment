@@ -1,6 +1,6 @@
 # GenAI Productivity Measurement Assessment Service
 ## Self-Assessment Framework Based on DORA 2025
-IMPROVED VERSION v4.3 - WITH QUESTION EXPLANATIONS
+IMPROVED VERSION v4.4 - 27th question fixed
 
 ---
 
@@ -490,15 +490,15 @@ IMPROVED VERSION v4.3 - WITH QUESTION EXPLANATIONS
 
 ---
 
-### Q27: Platform Quality & Developer Experience
+### Q27: Developer Workflow Quality & Ease of Delivery
 
-**What This Question Measures**: This question measures platform quality and developer experience (DX). A mature internal platform reduces friction; poor platform quality wastes developer time fighting tools instead of leveraging AI.
+**What This Question Measures**: This question measures how easy or difficult it is for developers to build, test, and deploy software in their daily work. Well-designed workflows reduce friction and allow teams to focus on delivery and effective use of AI; poor workflows waste developer time on tooling, setup, and manual steps instead of real engineering work.
 
-- [ ] 0 - No internal platform or low quality
-- [ ] 1 - Basic platform, but with friction
-- [ ] 2 - Platform exists; ~50% coverage
-- [ ] 3 - Good platform; solid DX
-- [ ] 4 - High-quality platform; independent development
+- [ ] 0 - Daily work is mostly manual or painful
+- [ ] 1 - Basic workflows exist, but with frequent friction
+- [ ] 2 - Workflows exist; ~50% of teams benefit
+- [ ] 3 - Well-defined workflows; solid developer experience
+- [ ] 4 - Highly efficient workflows; teams deliver independently
 - [ ] N/A - Not applicable
 
 **Your Score: _____**
